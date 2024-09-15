@@ -20,7 +20,7 @@
 
 Here is a GIF demonstrating the key features of the application:
 
-![Demo Video](https://github.com/marius2347/LLM-ChatBot-in-Python-using-Flask/blob/main/video.gif)
+![Demo Video](https://github.com/marius2347/Automatic-Speech-Recognition-using-Deep-Learning-in-Python/blob/main/video.gif)
 
 > Note: The GIF may take some time to load due to its size.
 
