@@ -9,10 +9,7 @@
 - Real-Time Effect Writing
 - Models used: `Wav2Vec2ForCTC` & `Wav2Vec2Tokenizer`
 
-## Acknowledgments
 
-**Python3**: [http://bit.ly/python3-certifications](http://bit.ly/python3-certifications)  
-**Machine Learning**: [https://bit.ly/machine-learning-certification](https://bit.ly/machine-learning-certification)
 <br>
 
 
